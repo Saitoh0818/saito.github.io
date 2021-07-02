@@ -1,0 +1,24 @@
+body{
+  font-family: Verdana, sans-serif;
+  margin: 12px;
+  padding-top: 40px;
+  text-align: center;
+  background: #ddd;
+  user-select: none;
+}
+
+#target{
+  margin: 0;
+  padding: 100px 0;
+  font-size: 48px;
+  letter-spacing: .1em;
+  background: #fff;
+}
+
+#result{
+  display: inline-block;
+  font-size: 24px;
+  width: 40%;
+  margin-top: 4px 0;
+  background: #fff;
+}
